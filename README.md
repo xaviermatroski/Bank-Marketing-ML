@@ -6,7 +6,7 @@ This project analyzes the direct marketing campaigns of a banking institution. T
 
 The goal is to develop a machine learning model to predict whether a client will subscribe to a bank term deposit (`yes`/`no`), based on campaign-related data.
 
----
+
 
 ## 🧠 Project Approach
 
@@ -36,13 +36,13 @@ The goal is to develop a machine learning model to predict whether a client will
 - Assessed model performance using metrics like accuracy, precision, recall, and F1-score.
 - Optimized the hyperparameters for the best-performing model.
 
----
+
 
 ## 🎯 Project Goals
 
 The primary objective is to predict whether a client will subscribe to a bank term deposit (`yes`/`no`) by leveraging data-driven insights. The secondary goal is to identify key features influencing customer behavior and use these insights to optimize marketing strategies.
 
----
+
 
 ## 🏆 Results and Key Insights
 
@@ -61,7 +61,7 @@ The primary objective is to predict whether a client will subscribe to a bank te
 
   - Targeting customers with high `cons.price.idx` and `euribor3m` values can enhance the campaign's efficiency by focusing on high-potential clients, saving resources, and driving growth.
 
----
+
 
 ## 🔧 Tools and Technologies
 
@@ -72,7 +72,7 @@ The primary objective is to predict whether a client will subscribe to a bank te
   - Machine Learning: Scikit-learn
 - **Environment**: Jupyter Notebook
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -93,7 +93,7 @@ The primary objective is to predict whether a client will subscribe to a bank te
    jupyter notebook
    ```
 
----
+
 
 ## 📚 Dataset
 
@@ -103,7 +103,7 @@ The primary objective is to predict whether a client will subscribe to a bank te
   - Economic indicators: `cons.price.idx`, `euribor3m`, etc.
 - Output: `y` (target variable indicating subscription).
 
----
+
 
 ## 🛠️ Future Enhancements
 
@@ -111,7 +111,7 @@ The primary objective is to predict whether a client will subscribe to a bank te
 - Integrate real-time prediction APIs for deployment.
 - Analyze regional or demographic trends to tailor marketing efforts.
 
----
+
 
 ## 🤝 Acknowledgments
 
