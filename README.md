@@ -38,7 +38,7 @@ The goal is to develop a machine learning model to predict whether a client will
 
 ---
 
-## 🔿 Project Goals
+## 🎯 Project Goals
 
 The primary objective is to predict whether a client will subscribe to a bank term deposit (`yes`/`no`) by leveraging data-driven insights. The secondary goal is to identify key features influencing customer behavior and use these insights to optimize marketing strategies.
 
